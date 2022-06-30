@@ -1,0 +1,6 @@
+[book]
+authors = ["Cedric Hutchings"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Useful C WASM without Emscripten"
