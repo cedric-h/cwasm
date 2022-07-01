@@ -24,7 +24,7 @@ mkdir build
 cd build
 
 zig build-lib \
-  --export add \
+  --export=add \
   -dynamic -target wasm32-freestanding ../main.c
 ```
 
